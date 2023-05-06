@@ -1,3 +1,4 @@
 ﻿  Source.cpp
-C:\Users\HP\source\repos\WorkerProject\WorkerProject\Source.cpp(64,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HP\source\repos\WorkerProject\WorkerProject\Soldier.h(29,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\source\repos\WorkerProject\WorkerProject\Source.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   WorkerProject.vcxproj -> C:\Users\HP\source\repos\WorkerProject\Debug\WorkerProject.exe
